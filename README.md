@@ -1,2 +1,2 @@
 # java-project2
-Sank game
+Sanke game
