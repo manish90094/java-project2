@@ -1,2 +1,2 @@
 # java-project2
-Sanke game
+Snake game
